@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <title> Gasuo pagina principal</title>
+        <meta charset="utf-8"/>
+        <meta name="keywords" content="gas, sensor de gas, metano"/>
+        <meta name="description" content="pagina oficial de gasuo. Una empresa dedicada a la fabricacion de sensores de 
+        gas con comunicacion wifi entre el aparato y el celular"/>
+        <meta name="author" content="Tuccillo Thomas"/>
+        <script src="./scripts.Js"></script>
+        <link rel="stylesheet" href="GasuoPagPrincipal.css" />
+    </head>
+    <body>
+      
+            <div class="div1">   
+                <a href="GasuoNuestroProducto.html" class="link1">Nuestro producto</a>
+                <a href="GasuoTablaTecnica.html" class="link2">caracteristicas tecnicas</a>
+                <a href="GasuoContactanos.html" class="link3">contactanos</a>  
+            </div>   
+        
+        <div class="div2">
+            <h2 class="Prima-h2">¿Quienes somos?</h2>
+            <p class="First-P">
+                Somos un grupo de estudiantes los cuales decidimos crear un proyecto para medir el nivel de gas en el ambiente.
+                Este proyecto lo pensamos en base   
+            </p>
+        </div>
+    </body>
+</html>
